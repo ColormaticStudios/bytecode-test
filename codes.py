@@ -1,0 +1,7 @@
+class codes:
+	next = 0xe7
+	define_variable = 0x04
+	run = 0xa3
+	print = 0xe3
+	string = 0x22
+	equals = 0xc3
